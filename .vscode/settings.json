@@ -1,0 +1,11 @@
+{
+  "eslint.options": {
+    "configFile": "/home/arnold/Documents/react_native/FirebaseAuth/.eslintrc.json"
+  },
+  "eslint.validate": ["javascript", "javascriptreact"],
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "javascript.suggest.completeFunctionCalls": true,
+  "javascript.suggest.autoImports": true
+}
